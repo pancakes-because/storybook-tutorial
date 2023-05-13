@@ -26,8 +26,8 @@ export default create({
 
   brandTitle: 'My custom Storybook',
   brandUrl: 'https://example.com',
-  // brandImage: 'https://storybook.js.org/images/placeholders/350x150.png',
-  brandImage: 'https://media.giphy.com/media/l0HFkA6omUyjVYqw8/giphy.gif',
+  brandImage: 'https://storybook.js.org/images/placeholders/350x150.png',
+  // brandImage: 'https://media.giphy.com/media/l0HFkA6omUyjVYqw8/giphy.gif',
   brandTarget: '_self',
 
   //
