@@ -32,7 +32,7 @@ export default create({
 
   //
   colorPrimary: '#3A10E5',
-  colorSecondary: '#585C6D',
+  colorSecondary: '#13AA6A',
 
   // UI
   appBg: '#F4FBF8',
@@ -46,8 +46,8 @@ export default create({
 
   // Toolbar default and active colors
   barTextColor: '#000000',
-  barSelectedColor: '#585C6D',
-  barBg: '#13AA6A',
+  barSelectedColor: '#13AA6A',
+  barBg: '#F4FBF8',
 
   // Form colors
   inputBg: '#ffffff',
