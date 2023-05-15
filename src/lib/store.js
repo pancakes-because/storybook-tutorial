@@ -1,4 +1,3 @@
-
 /* A simple redux store/actions/reducer implementation.
  * A true app would be more complex and separated into different files.
  */
