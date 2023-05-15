@@ -1,7 +1,6 @@
-// note: had to run "npm i msw" to generate the mock server first; only do once 
-// got through the tutorial, but didn't seem to work 
-// tried the command "npx msw init public", which should genreate a mock server in the public folder
-// also did not work 
+// had some difficulty with the creating the mock service worker, but figured it out through docs 
+// help ticket with answer: https://github.com/orgs/nss-evening-web-development/discussions/796 
+
 
 import '../src/index.css';
 

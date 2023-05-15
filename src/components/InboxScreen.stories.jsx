@@ -1,9 +1,8 @@
-// changed the code to mock the remote api calls using a parameter
 
 import InboxScreen from './InboxScreen';
 import store from '../lib/store';
-import { rest } from 'msw';
-import { MockedState } from './TaskList.stories';
+ import { rest } from 'msw';
+ import { MockedState } from './TaskList.stories';
 import { Provider } from 'react-redux';
 
 export default {
